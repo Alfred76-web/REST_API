@@ -59,8 +59,8 @@ Create a Python script _get_products.py_
 Create a Python script _add_car_product.py_:
 
 ## 3. Run python Scripts
-python get_products.py   *# To get all products*
-python add_car_product.py    *# To add a new product*
+python get_products.py  
 
-![Output_Image](C:\Users\thuku\Documents\2ND YEAR\2.2\Application programming for the internet\REST_API\output.png)
+python add_car_product.py   
+
 
