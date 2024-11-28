@@ -62,5 +62,5 @@ Create a Python script _add_car_product.py_:
 python get_products.py   *# To get all products*
 python add_car_product.py    *# To add a new product*
 
-![Output_Image](C:\Users\thuku\Documents\2ND YEAR\2.2\Application programming for the internet\REST_API\output.png)
+<img width="471" alt="output" src="https://github.com/user-attachments/assets/33db55e6-a913-46c9-8dd0-cd1bce91eec2">
 
