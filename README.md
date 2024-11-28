@@ -63,4 +63,5 @@ python get_products.py
 
 python add_car_product.py   
 
+![Output_Image](C:\Users\thuku\Documents\2ND YEAR\2.2\Application programming for the internet\REST_API\output.png)
 
